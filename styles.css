@@ -1,0 +1,20 @@
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+select, input {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.summary-box {
+  background-color: #f2f2f2;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border-radius: 8px;
+}
